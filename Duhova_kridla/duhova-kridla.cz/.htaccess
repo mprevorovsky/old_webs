@@ -1,0 +1,12 @@
+redirect permanent /aroma.html http://www.duhova-kridla.cz/aroma.php
+redirect permanent /cenik.html http://www.duhova-kridla.cz/cenik.php
+redirect permanent /darek.html http://www.duhova-kridla.cz/darek.php
+redirect permanent /gw.html http://www.duhova-kridla.cz/gw.php
+redirect permanent /kdojsem.html http://www.duhova-kridla.cz/kdojsem.php
+redirect permanent /masaz.html http://www.duhova-kridla.cz/masaz.php
+redirect permanent /uvod.html http://www.duhova-kridla.cz/index.php
+redirect permanent /aktuality.html http://www.duhova-kridla.cz/aktuality.php
+redirect permanent /kontakt.html http://www.duhova-kridla.cz/kontakt.php
+redirect permanent /index.html http://www.duhova-kridla.cz/index.php
+
+

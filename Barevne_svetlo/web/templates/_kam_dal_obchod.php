@@ -1,0 +1,1 @@
+		<li><a href="/obchod.php" title="Jak na objednávky, platby, dodací lhůty">Obchodní podmínky</a></li>

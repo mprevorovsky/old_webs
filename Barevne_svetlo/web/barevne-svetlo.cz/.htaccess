@@ -1,0 +1,7 @@
+ErrorDocument 404 /404.php
+
+redirect permanent /o_autorce.php http://www.barevne-svetlo.cz/o-autorce-sperku.php
+redirect permanent /o_kolekcich.php http://www.barevne-svetlo.cz/o-kolekcich-sperku.php
+redirect permanent /sperky_detail.php http://www.barevne-svetlo.cz/sperky-detail.php
+redirect permanent /sperky_prehled.php http://www.barevne-svetlo.cz/sperky-prehled.php
+

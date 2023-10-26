@@ -1,0 +1,1 @@
+		<li><a href="/o-kolekcich-sperku.php" title="Představujeme Vám kolekce šperků z polodrahokamů">Designové kolekce ručně vyráběných šperků</a></li>

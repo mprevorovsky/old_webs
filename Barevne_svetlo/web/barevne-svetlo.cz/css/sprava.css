@@ -1,0 +1,32 @@
+body {
+	color: "#0b5c01";
+	}
+
+table {
+	background-color: #c7fbc0;
+	border: 1px solid;
+	padding: 0px;
+	}
+
+td {
+	border: 1px solid;
+	padding: 2px 10px 2px 10px;
+	vertical-align:top;
+	}
+	
+.hidden {
+	background-color: orange;
+	}
+
+.vyprodano {
+	color: grey;
+	}
+
+img {
+	border: #000000 0px solid;
+	margin:0px;
+	}
+	
+form {
+	margin:0px;
+	}

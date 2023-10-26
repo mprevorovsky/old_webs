@@ -1,0 +1,1 @@
+		<li><a href="/kontakt.php" title="Jak nás můžete kontaktovat">Kontaktní informace</a></li>

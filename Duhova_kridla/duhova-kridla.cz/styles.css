@@ -1,0 +1,38 @@
+body {font-size:16px;color:#00004c;margin:0px 10px 0px 0px;background-color:transparent;text-align:justify;}
+body,p,h1,h2,h3,table,td,ul,li {font-family:arial,verdana,helvetica,sans-serif;}
+
+p {font-size:100%;}
+.right {text-align:right;}
+.citat {margin-left:40px;font-style:italic;}
+.rightitalic {text-align:right;font-style:italic;}
+.news {color:#ff0000;font-weight:bold;}
+.zast {margin-bottom:0px;}
+.small {font-size:90%;}
+.menu {margin:5px 0px 0px 0px;color:#00004c;font-weight:bold;text-align:center}
+.datum {font-size:90%;text-align:right;margin:25px 0px 0px 0px;}
+
+ul {margin:0px;padding-left:0px}
+li {font-size:100%;list-style-image: url("images/dash.gif");margin-left:40px}
+li.masaz {list-style-image: url("images/bullet_p.gif");margin:0px 0px 10px 20px;font-weight:bold;}
+li.masaz_a {list-style-image: url("images/bullet_p.gif");}
+li.novinky {list-style-image: url("images/bullet_o3.gif");margin:0px 0px 10px 20px;font-weight:bold;}
+li.kontra_a {list-style-image: url("images/bullet_r2.gif");}
+li.cenik_a {list-style-image: url("images/bullet_b4.gif");}
+li.aroma_a {list-style-image: url("images/bullet_p3.gif");}
+
+h3 {font-size:100%;font-weight:bold;}
+h2 {font-size:110%;font-weight:bold;margin:0px;}
+h1 {font-size:120%;font-weight:bold;margin:0px;}
+
+a {font-weight:600;text-decoration:none;color:#804200;outline:none;font-size:100%;}
+a.anch {color:#00004c;}
+a:hover, p.menu:hover {opacity:0.6;}
+
+hr {color:#00004c; background-color:#00004c;margin:20px 0px 20px 0px}
+
+img {border: #000000 0px solid; margin:0px;}
+
+table {border:0px;font-size:100%;}
+tr {padding:0px;}
+td {padding:3px 0px 3px 0px;}
+.odsaz20 {padding-left:20px;}

@@ -1,0 +1,1 @@
+		<li><a href="/o-autorce-sperku.php" title="Lenka Převorovská a její tvorba">Autorka a designérka šperků Barevného světla</a></li>
